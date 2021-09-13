@@ -6,8 +6,8 @@ date:       2015-09-22
 author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
+    - 图形开发
+    - 矢量光栅化
     - 翻译
 ---
 
